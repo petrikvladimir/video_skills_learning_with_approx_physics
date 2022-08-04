@@ -4,7 +4,8 @@ In case of any question contact us at *vladimir.petrik@cvut.cz* or *makarand.tap
 
 Additional data:
 [Project page](https://data.ciirc.cvut.cz/public/projects/2022Real2SimPhysics/), 
-[YouTube video](https://youtu.be/QS6TDqr87gc),
+[ArXiv](https://arxiv.org/abs/2208.01960), 
+[YouTube video](https://youtu.be/QS6TDqr87gc).
 
 [//]: # ([arXiv]&#40;TBD&#41;,)
 [//]: # ([Paper PDF]&#40;https://drive.google.com/file/d/1DuHan9oZXznDnXiCP7J6ogWn8FMAAkIJ/view&#41;)
